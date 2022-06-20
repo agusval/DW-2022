@@ -2,7 +2,7 @@
 Repositorio grupal - ISPC
 
 # ¿Cuáles son las ceremonias en Scrum?
-Ceremonias que se realizan a lo largo del proyecto:
+Las cuatro ceremonias principales son reuniones que tienen lugar en las iteraciones o sprints. LAs mismas son:
 
 ● Sprint Planning Meeting: Se produce al iniciarlo, con el objetivo de determinar qué se realizará.
 
@@ -14,7 +14,7 @@ Ceremonias que se realizan a lo largo del proyecto:
 
 # Artefactos en Scrum
 
-Los artefactos son todos los elementos que te garantizan la transparencia y el registro de la informacion fundamental:
+Los artefactos son todos los elementos que te garantizan la transparencia y el registro de la informacion fundamental. Estos son:
 * Product backlog:
 Es una lista ordenada con todo lo que necesita un producto para cumplir potenciales y única fuente de requisitos para realizar modificaciones en el.
 El único responsable de este artefacto es el product owner ,el encargado de añadir y ordenar ítems.
