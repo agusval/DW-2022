@@ -32,5 +32,10 @@ Podriamos decir que el incremento es una nueva version de producto.Una version c
 Un equipo Scrum, por lo general, esta compuesto por grupos de trabajo de entre 3 y 10 miembros del equipo de desarrollo. Cada uno de estos roles tienen diferentes responsabilidades y deben de realizarlas aportando de diferentes maneras según su funcion, tanto entre ellos como para el resto de la organización. La suma de todos los roles es a lo que se denomina como Equipo Scrum.
   
 *Product Owner (PO): Representa la voz del Cliente y se encarga de maximimizar el producto, siendo la persona encargada de gestionar el flujo de valor del producto a través del Product Backlog.
+
 *Scrum Master (SM): Tiene dos funciones principales dentro del marco de trabajo: gestionar el proceso Scrum y ayudar a eliminar impedimentos que puedan afectar a la entrega del producto. Además, se encarga de las labores de mentoring y formación, coaching y de facilitar reuniones y eventos si es necesario.
 *Equipo de desarrollo: Se encargan de desarrollar el producto, auto-organizándose y auto-gestionándose para conseguir entregar un incremento de software al final del ciclo de desarrollo.
+
+*Development Team(DT): Este equipo se concibe bajo el concepto de “Diferentes personas con un mismo propósito”, tienen un objetivo en común y comparten la responsabilidad del trabajo que realizan, sumado la calidad del proyecto en cada iteración.
+Cuando se habla del equipo de desarrollo se refiere a un conjunto de personas con habilidades técnicas que de manera conjunta desarrollan el producto del proyecto.
+
