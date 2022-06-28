@@ -2,7 +2,7 @@
 Repositorio grupal - ISPC
 
 # ¿Cuáles son las ceremonias en Scrum?
-Las cuatro ceremonias principales son reuniones que tienen lugar en las iteraciones o sprints. LAs mismas son:
+Las cuatro ceremonias principales son reuniones que tienen lugar en las iteraciones o sprints. Las mismas son:
 
 ● Sprint Planning Meeting: Se produce al iniciarlo, con el objetivo de determinar qué se realizará.
 
