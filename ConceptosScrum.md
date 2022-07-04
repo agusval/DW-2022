@@ -20,9 +20,11 @@ Los artefactos son todos los elementos que te garantizan la transparencia y el r
 Es una lista ordenada con todo lo que necesita un producto para cumplir potenciales y única fuente de requisitos para realizar modificaciones en el.
 El único responsable de este artefacto es el product owner ,el encargado de añadir y ordenar ítems.
 Por definición esta lista nunca esta completa.
+
 ● Sprint backlog:
 Es un subconjunto de elementos del PB elegidos para abordarse en el periodo de tiempo o sprint mas un plan para ofrecerlos como incremento del producto y lograr el objetivo del sprint.
 Según trabajas sobre el producto ,aparece un nuevo trabajo que el equipo de desarrollo va incorporando al sprint backlog(sus miembros son los únicos responsables de modificarlos o eliminarlos)
+
 ● Incremento:
 Se trata del resultado del sprint. Un entregable utilizable y potencialmente desplegable.
 El incremento debe estar terminado o, lo que es lo mismo, listo para ser usado y cumplir la definicion de <<terminado>> que ha establecido el equipo Scrum en la reunion de planificacion de sprint.
