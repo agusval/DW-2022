@@ -1,5 +1,5 @@
 # DW-2022
-Repositorio grupal - ISPC
+Repositorio grupal - ISPC - 2022
 
 # ¿Cuáles son las ceremonias en Scrum?
 Las cuatro ceremonias principales son reuniones que tienen lugar en las iteraciones o sprints. LAs mismas son:
