@@ -42,4 +42,9 @@ Un equipo Scrum, por lo general, esta compuesto por grupos de trabajo de entre 3
 
 ● Development Team(DT): Este equipo se concibe bajo el concepto de “Diferentes personas con un mismo propósito”, tienen un objetivo en común y comparten la responsabilidad del trabajo que realizan, sumado la calidad del proyecto en cada iteración.
 Cuando se habla del equipo de desarrollo se refiere a un conjunto de personas con habilidades técnicas que de manera conjunta desarrollan el producto del proyecto.
+ 
+Conclusión:
 
+Para hacer efectivo el método Scrum, es vital que a todos los miembros se les asigne un rol.
+Esto ayudará a crear una estructura jerárquica que beneficiará el funcionamiento de todo el equipo Scrum y, así, se podrán finalizar los sprints en menor tiempo.
+Analiza y compara las mejores opciones de Software Scrum disponibles para hacer más llevadero el camino y acrecentar la productividad.
