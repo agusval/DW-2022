@@ -47,4 +47,4 @@ Conclusión:
 
 Para hacer efectivo el método Scrum, es vital que a todos los miembros se les asigne un rol.
 Esto ayudará a crear una estructura jerárquica que beneficiará el funcionamiento de todo el equipo Scrum y, así, se podrán finalizar los sprints en menor tiempo.
-Analiza y compara las mejores opciones de Software Scrum disponibles para hacer más llevadero el camino y acrecentar la productividad.
+Analiza y compara las mejores opciones de Software Scrum disponibles para hacer más llevadero el camino y acrecentar la productividad. 
