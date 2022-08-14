@@ -1,4 +1,4 @@
-#ACTIVIDADDOS:
+#Ejercicio2 de python:
 
 #Creo lista
 
