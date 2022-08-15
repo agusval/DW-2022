@@ -126,7 +126,7 @@ CREATE TABLE Perro
 
 /* 2. Inserte en la tabla correspondiente un nuevo animal (perro) como paciente y el dueño asociado a ese animal.*/;
 
-INSERT INTO Perro VALUES (6, 'MATITA', '2021-11-19', 'HEMBRA',  33222111);
+INSERT INTO Perro VALUES (6, 'MANTEQUITA', '2021-05-23', 'HEMBRA',  34242111);
 
 /*6.  	Obtener todos los perros que asistieron a la peluquería en 2022 */;
 
